@@ -44,13 +44,36 @@
 # #zad4
 # import math
 # print(math.e**10)
-# print(math.sqrt(2))
+# print((math.log(5+math.sin(8)**2)**(1/6)))
+# print(math.floor(3.55))
+# print(math.ceil(4.80))
 #zad5
-
+# imie='ŁUKASZ'
+# nazwisko='MOSZCZYŃSKI'
+# print(imie.capitalize())
+# print(nazwisko.capitalize())
 #zad6
-
+# song='la la, la la la la la na na na na na ' \
+#      'la la na na, la la la la la na na na na na ' \
+#      'la la, la la la la la na na na na na ' \
+#      'la la na na, la la la la la na na na na na'
+# slowo='la'
+# print(song.count(slowo))
 #zad7
-
+# slowo='Brzęczyszczykiewicz'
+# print(slowo[1],slowo[-1])
 #zad8
-
+# song='la la, la la la la la na na na na na ' \
+#       'la la na na, la la la la la na na na na na ' \
+#       'la la, la la la la la na na na na na ' \
+#       'la la na na, la la la la la na na na na na'
+# print(song.split(','))
 #zad9
+# zmiennastr="String"
+# print(zmiennastr)
+# zmiennafloat=5.0
+# zmiennafloat=5
+# print(float(zmiennafloat))
+# zmiennahex=0XFF
+# zmiennahex=255
+# print(hex(zmiennahex))
